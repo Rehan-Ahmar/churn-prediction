@@ -35,6 +35,7 @@ Libraries Used : numpy, pandas, matplotlib, seaborn, pyspark
 
 The final Random Forest Classifier model gives an F1-score of 0.88, which is quite satisfactory. There is still a lot of scope for improvements, like creating new features from the data and trying out other models and hyperparameters.
 
+For a detailed discussion, check out [my blog post](https://medium.com/@rehan.ahmar/predicting-customer-churn-from-log-file-using-apache-spark-c8fa37403845)
 
 <a name="acknowledgements"></a>
 ## Acknowledgements
